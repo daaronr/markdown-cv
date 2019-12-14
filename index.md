@@ -5,6 +5,8 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 # Dr. David Reinstein
 
+\
+
 **Senior Lecturer, University of Exeter (Economics)**
 
 
@@ -19,7 +21,7 @@ Phone: +44 (0)7510303648
 
 **Consulting goals**: To work with businesses, nonprofit organizations and government agencies to improve people's lives using insights from Economics and Psychology, employing rigorous experimentation and data-analysis. To build innovative interactive resources, programs and workshops outside of traditional academic settings, to share tools, skills, and insights.
 
-**Strengths**: Economic theory and analysis; behavioral economics; statistical inference, predictive modeling, analysis; data cleaning, analysis and visualisation; experiments: (i..e, randomized controlled trials or A/B testing): design, scoping, power-analysis, efficient treatment assignment, analysis; technical and non-technical writing; dynamic documents and presentations; project design, planning and organization; designing and teaching professional and academic courses; grant-writing;  developing solutions to business and social problems using insights from Economics and Psychology.
+**Strengths**: Microeconomic analysis; behavioral economics; statistical inference, predictive modeling, analysis; data cleaning, analysis and visualisation; experiments: (i..e, randomized controlled trials or A/B testing): design, scoping, power-analysis, efficient treatment assignment, analysis; technical and non-technical writing; dynamic documents and presentations; project design, planning and organization; designing and teaching professional and academic courses; grant-writing;  developing solutions to business and social problems using insights from Economics and Psychology.
 
 **Software/tech**: R (tidyverse), Stata, SAS, Git/GitHub and version control, Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, ViM text editor and ViM file manager, Airtable. Familiarity: Python, command line/Bash shell, SQL and relational databases.
 
