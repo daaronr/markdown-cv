@@ -27,7 +27,7 @@ Phone: +44 (0)7510303648
 
 ## Positions
 
-`January 2016 - present`
+`Jan. 2016 - present`
 **Senior Lecturer, Department of Economics, University of Exeter Business School**
 
 `2006-2015`
@@ -129,11 +129,11 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 
 **Other:** Behavioral Economics and the Economics of Altruism (SKKU international summer school), Economics of the UK Welfare State (Chinese and Japanese visiting delegations)
 
-* Director, ESSExLab 2014-15
+Director, ESSExLab 2014-15
 
-* Student-staff liaison coordinator, director of mentoring program, seminar organizer
+Student-staff liaison coordinator, director of mentoring program, seminar organizer
 
-* PhD Chair: Stefano Alderighi, Chiara Cavaglia, Claudio Deiana, Robert Nistico, Eugenia Suarez Moran
+PhD Chair: Stefano Alderighi, Chiara Cavaglia, Claudio Deiana, Robert Nistico, Eugenia Suarez Moran
 
 ## Editorial Boards and Affiliations
 
