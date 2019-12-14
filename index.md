@@ -125,11 +125,11 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 
 ## Teaching and university administration
 
-**University of Exeter:** Economics dissertation (see [web-book](https://daaronr.github.io/writing_econ_research/introduction.html)), Economic Principles and Policy, Intermediate Microeconomics, MSc Microeconomics.
+**University of Exeter:** Economics dissertation (see [web-book](https://daaronr.github.io/writing_econ_research/introduction.html)), Economic Principles and Policy, Intermediate Microeconomics, Microeconomics (MSc).
 
-**University of Essex:** Undergraduate Economics Project Director (including employer-linked projects), Economics of Incentives, MSc, Public Economics, Advanced Microeconomics:  Game theory and modeling
+**University of Essex:** Undergraduate Economics Project Director (including employer-linked projects), Economics of Incentives (MSc), Public Economics, Advanced Microeconomics: Game theory and modeling
 
-**University of California** (Berkeley): Principles of microeconomics, Econometrics (advanced undergraduate_
+**University of California** (Berkeley): Principles of microeconomics, Econometrics (advanced undergraduate), Microeconomics and strategy (MBA)
 
 **Other:** Behavioral Economics and the Economics of Altruism (SKKU international summer school), Economics of the UK Welfare State (Chinese and Japanese visiting delegations)
 
@@ -199,7 +199,7 @@ Environmental and Resource Economics, BE Press, Economic Journal (4X), Empirical
 
 ## Personal Information
 
-Citizenship: USA, UK; EU residence permitted via marriage
+Citizenship: USA, UK; spouse of EU citizen
 
 Locations: Exeter UK (home), West of Boston, Albany NY,  New York city, Tenerife Spain, Berkeley CA, LA, Leiden NL, Seoul, Chicago
 
