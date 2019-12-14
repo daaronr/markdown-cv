@@ -21,86 +21,99 @@ Phone: +44 (0)7510303648
 
 **Software/tech**: R (tidyverse), Stata, SAS, Git/GitHub and version control, Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, ViM text editor and ViM file manager, Airtable. Familiarity: Python, command line/Bash shell, SQL and relational databases.
 
-
 **Education**: University of California at Berkeley, Ph.D., Economics (2006), supervisor: Professor Emmanuel Saez; George Washington University, B.S. Economics (1998)
 
 **Research Interests**: Applied Econometrics and data analysis, Microeconomics,  Public Economics, Other-regarding Behavior and Philanthropy, Psychology and Economics, Experimental Economics (lab and field), Economics of Education, Public Policy
 
 ## Positions
 
-**January 2016 - present: **Senior Lecturer, Department of Economics, University of Exeter Business School
+`January 2016 - present`
+**Senior Lecturer, Department of Economics, University of Exeter Business School
 
-**2006-2015: **Lecturer (Assistant Professor equivalent), permanency granted 2011, Department of Economics, University of Essex.  **_ _**
+`2006-2015`
+Lecturer (Assistant Professor equivalent), permanency granted 2011, Department of Economics, University of Essex.
 
-**2004-5  **LECG Consulting, Emeryville, CA, USA. Senior Consulting Intern.
+`2004-5`
+LECG Consulting, Emeryville, CA, USA. Senior Consulting Intern.
 
-**1999-2005 **PhD student at University of California at Berkeley; various research and teaching roles.
+`1999-2005`
+PhD student at University of California at Berkeley; various research and teaching roles.
 
-**1998-1999  **CNA (Center for Naval Analyses) Corporation, Resource Analysis Division, Alexandria, VA. Research Specialist.
+`1998-1999  `
+CNA (Center for Naval Analyses) Corporation, Resource Analysis Division, Alexandria, VA. Research Specialist.
 
-**1998**  Congressional Budget Office, Special Studies Division, Washington, DC.
+`1998`
+Congressional Budget Office, Special Studies Division, Washington, DC.
 
 
 ## Entrepreneurial and Impact Projects
 
-* [Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [http://giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
+[Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [http://giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
 
-* University of Essex: Founded joint undergraduate program with SKKU Global Economics (South Korea)
+University of Essex: Founded joint undergraduate program with SKKU Global Economics (South Korea)
 
-* Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
+Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
 
 ## Web pages and projects
 
-* [Academic page (Wordpress)](http://davidreinstein.wordpress.com/), [Official Exeter page](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein)
+[Academic page (Wordpress)](http://davidreinstein.wordpress.com/), [Official Exeter page](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein)
 
-* [Innovations in Fundraising research hub](http://Innovationsinfundraising.org)
+[Innovations in Fundraising research hub](http://Innovationsinfundraising.org)
 
-* ["Give if you win" ](http://giveifyouwin.org/)
+["Give if you win" ](http://giveifyouwin.org/)
 
-* [BITSS catalyst](https://www.bitss.org/people/david-reinstein/), [OSF: registered experiments and projects](https://osf.io/qdhvt/)
+[BITSS catalyst](https://www.bitss.org/people/david-reinstein/), [OSF: registered experiments and projects](https://osf.io/qdhvt/)
 
-* [GitHub (a variety of projects and shared tools)](https://github.com/daaronr)
+[GitHub (a variety of projects and shared tools)](https://github.com/daaronr)
 
 ## Independent consulting projects and partnerships
 
-* ["Evidence on Framing, Language, and (Retirement) Savings Behaviour"](https://www.dropbox.com/s/tyab5ei664gd3wm/DR_retirementnotes_clientanonymised.pdf?dl=0): report for TeamSpirit PR on behalf of large financial services client
+["Evidence on Framing, Language, and (Retirement) Savings Behaviour"](https://www.dropbox.com/s/tyab5ei664gd3wm/DR_retirementnotes_clientanonymised.pdf?dl=0): report for TeamSpirit PR on behalf of large financial services client
 
-* Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedonorvoice.com/meet_scientist/david-reinstein/), [Momentum app](https://www.sparrowgiving.com/), [Giving Alpha](https://www.givingalpha.org/), Giving for impact academic review committee, [X-econ](https://x-econ.org/xecon/#!ProjectDescription)
+Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedonorvoice.com/meet_scientist/david-reinstein/), [Momentum app](https://www.sparrowgiving.com/), [Giving Alpha](https://www.givingalpha.org/), Giving for impact academic review committee, [X-econ](https://x-econ.org/xecon/#!ProjectDescription)
 
-* Early-stage project scoping with Profusion data consultancy
+Early-stage project scoping with Profusion data consultancy
 
 
 ## Publications and research projects
 
-* Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Evaluations" (with Robin Bergh (Harvard); *Social Psychological and Personality Science*, forthcoming 2019/2020. ([Pre-print](https://www.researchgate.net/publication/337060647_Empathic_and_Numerate_Giving_The_Joint_Effects_of_Images_and_Charity_Evaluations))
+Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Evaluations" (with Robin Bergh (Harvard); *Social Psychological and Personality Science*, forthcoming 2019/2020. ([Pre-print](https://www.researchgate.net/publication/337060647_Empathic_and_Numerate_Giving_The_Joint_Effects_of_Images_and_Charity_Evaluations))
 
-* "[Ex-ante Commitments to "Give if you Win" Exceed Donations After a Win](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/32001/GivingProbabilityMaster1_commentsout.pdf?sequence=1&isAllowed=y)**" **(with Christian Kellner [Southampton], Gerhard Riener [Dusseldorf]); *Journal of Public Economics, 2018.*
+"[Ex-ante Commitments to "Give if you Win" Exceed Donations After a Win](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/32001/GivingProbabilityMaster1_commentsout.pdf?sequence=1&isAllowed=y)**" **(with Christian Kellner [Southampton], Gerhard Riener [Dusseldorf]); *Journal of Public Economics, 2018.*
 
-* [Losing Face](https://www.dropbox.com/s/tx4yfun1ctxuezw/LosingFace.pdf?dl=0)* *with Thomas[ ](http://www.elektronegativ.de/tgall/)Gall, Southampton. *Oxford Economic Papers*, 2018
+[Losing Face](https://www.dropbox.com/s/tx4yfun1ctxuezw/LosingFace.pdf?dl=0)* *with Thomas[ ](http://www.elektronegativ.de/tgall/)Gall, Southampton. *Oxford Economic Papers*, 2018
 
-* "[The Economics of the Gift](https://www.researchgate.net/publication/323116843_The_Economics_of_the_Gift?_sg=kdoPnHqZ7uaBvTUBETk0GQONoMvi6SX7w9AEiUiBGheF2hAtX2sXwi9XXAgoJT6wNR4VbiBA0-0qRNBtd4f7SsfI0y2PaPSAzqACBNmi.Gh6ObXs2qt9O2FsY3_y2HH_FuDUjSphDVOH6vuEUCNrLJy2mG02-6042BPlUKfKHyxhwRwttrlt0oQ5PnUMl_A)" in:** ***Gift giving and the "embedded" economy in the ancient world*, edited by Filippo Carlà and Maja Gori, Universitätsverlag Winter Heidelberg, 2014, pp. 83-99. 
+"[The Economics of the Gift](https://www.researchgate.net/publication/323116843_The_Economics_of_the_Gift?_sg=kdoPnHqZ7uaBvTUBETk0GQONoMvi6SX7w9AEiUiBGheF2hAtX2sXwi9XXAgoJT6wNR4VbiBA0-0qRNBtd4f7SsfI0y2PaPSAzqACBNmi.Gh6ObXs2qt9O2FsY3_y2HH_FuDUjSphDVOH6vuEUCNrLJy2mG02-6042BPlUKfKHyxhwRwttrlt0oQ5PnUMl_A)" in:** ***Gift giving and the "embedded" economy in the ancient world*, edited by Filippo Carlà and Maja Gori, Universitätsverlag Winter Heidelberg, 2014, pp. 83-99. 
 
-* "[Anonymous Rituals](https://www.sciencedirect.com/science/article/pii/S0167268111001806)" (with David Hugh-Jones, UEA) *Journal of Economic Behavior and Organization*, 81, 478, 2012.
+"[Anonymous Rituals](https://www.sciencedirect.com/science/article/pii/S0167268111001806)" (with David Hugh-Jones, UEA) *Journal of Economic Behavior and Organization*, 81, 478, 2012.
 
-* "[Decomposing Desert and Tangibility Effects in a Charitable Giving Experiment](https://www.researchgate.net/publication/227451233_Decomposing_Desert_and_Tangibility_Effects_in_a_Charitable_Giving_Experiment)" (with Riener)., *Experimental Economics*, 1-12, 2012.
+"[Decomposing Desert and Tangibility Effects in a Charitable Giving Experiment](https://www.researchgate.net/publication/227451233_Decomposing_Desert_and_Tangibility_Effects_in_a_Charitable_Giving_Experiment)" (with Riener)., *Experimental Economics*, 1-12, 2012.
 
-* "[Reputation and Influence in Charitable Giving: An Experiment](https://www.researchgate.net/publication/226634916_Reputation_and_Influence_in_Charitable_Giving_An_Experiment)" (with Riener). *Theory and Decision*, pp. 1-23, 2012.
+"[Reputation and Influence in Charitable Giving: An Experiment](https://www.researchgate.net/publication/226634916_Reputation_and_Influence_in_Charitable_Giving_An_Experiment)" (with Riener). *Theory and Decision*, pp. 1-23, 2012.
 
-* "[Efficient Consumer Altruism and Fair Trade Products](https://www.researchgate.net/publication/239768339_Efficient_Consumer_Altruism_and_Fair_Trade_Products)"  (With Joon Song, Sungkyunkwan University).   *Journal of Economics and Management Strategy, *Volume 21 Number 1, Spring 2012.
+"[Efficient Consumer Altruism and Fair Trade Products](https://www.researchgate.net/publication/239768339_Efficient_Consumer_Altruism_and_Fair_Trade_Products)"  (With Joon Song, Sungkyunkwan University).   *Journal of Economics and Management Strategy, *Volume 21 Number 1, Spring 2012.
 
-* "[Does One Contribution Come at the Expense of Another](https://www.researchgate.net/publication/227377867_Does_One_Charitable_Contribution_Come_at_the_Expense_of_Another)?  Empirical Evidence on Substitution Among Charitable Donations." *The B.E. Journal of Economic Analysis & Policy*, Vol. 11:  Iss. 1 (Advances), Article 40, 2011.
+"[Does One Contribution Come at the Expense of Another](https://www.researchgate.net/publication/227377867_Does_One_Charitable_Contribution_Come_at_the_Expense_of_Another)?  Empirical Evidence on Substitution Among Charitable Donations." *The B.E. Journal of Economic Analysis & Policy*, Vol. 11:  Iss. 1 (Advances), Article 40, 2011.
 
-* "[The Influence of Expert Reviews on Consumer Demand for Experience Goods: A Case Study of Movie Critics](https://www.researchgate.net/publication/4992942_The_Influence_of_Expert_Reviews_on_Consumer_Demand_for_Experience_Goods_A_Case_Study_of_Movie_Critics)" with Professor C. M. Snyder, *Journal of Industrial Economics*, Vol. 53, No. 1, pp. 27-51, March 2005
+"[The Influence of Expert Reviews on Consumer Demand for Experience Goods: A Case Study of Movie Critics](https://www.researchgate.net/publication/4992942_The_Influence_of_Expert_Reviews_on_Consumer_Demand_for_Experience_Goods_A_Case_Study_of_Movie_Critics)" with Professor C. M. Snyder, *Journal of Industrial Economics*, Vol. 53, No. 1, pp. 27-51, March 2005
 
-*Work in progress and in submission:* "[Listen to the market, hear the best policy decision, but don’t always choose it](http://www.essex.ac.uk/economics/discussion-papers/Papers-text/dp748.pdf)," “[Exclude the bad actors, or learn about the group](http://www.essex.ac.uk/economics/discussion-papers/Papers-text/dp750.pdf)”, “[Does one contribution come at the expense of another? Empirical evidence on substitution between charitable donations](https://s3.amazonaws.com/academia.edu.documents/30603591/dp64802.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1519821227&Signature=YHRCZIWQTBdbvPs0Ftv4rWMmRGc%3D&response-content-disposition=inline%3B%20filename%3DSubstitution_Among_Charitable_Contributi.pdf)*”, *“The Returns to Higher Education Institutions in the Netherlands: Estimates Based on Randomized Assignment”, “Does where you go to university determine where you will live afterwards?”, [“Increasing effective charitable giving: The puzzle, what we know, what we need to know next” ](https://osf.io/pjm5n/)
+### Work in progress and in submission
+
+"[Listen to the market, hear the best policy decision, but don’t always choose it](http://www.essex.ac.uk/economics/discussion-papers/Papers-text/dp748.pdf),"
+
+“[Exclude the bad actors, or learn about the group](http://www.essex.ac.uk/economics/discussion-papers/Papers-text/dp750.pdf)”,
+“[Does one contribution come at the expense of another? Empirical evidence on substitution between charitable donations](https://s3.amazonaws.com/academia.edu.documents/30603591/dp64802.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1519821227&Signature=YHRCZIWQTBdbvPs0Ftv4rWMmRGc%3D&response-content-disposition=inline%3B%20filename%3DSubstitution_Among_Charitable_Contributi.pdf)*”,
+“The Returns to Higher Education Institutions in the Netherlands: Estimates Based on Randomized Assignment”,
+“Does where you go to university determine where you will live afterwards?”,
+[“Increasing effective charitable giving: The puzzle, what we know, what we need to know next” ](https://osf.io/pjm5n/)
 
 ## Selected popular essays and outreach
 
-* [Should we help companies tailor prices to your wage packet?](https://theconversation.com/should-we-help-companies-tailor-prices-to-your-wage-packet-47719) (The Conversation, 2015)
+[Should we help companies tailor prices to your wage packet?](https://theconversation.com/should-we-help-companies-tailor-prices-to-your-wage-packet-47719) (The Conversation, 2015)
 
-* [How to win the marathon](https://societycentral.ac.uk/2013/04/03/how-to-win-in-the-marathon-by-david-reinstein/) (Society Central, 2013)
+[How to win the marathon](https://societycentral.ac.uk/2013/04/03/how-to-win-in-the-marathon-by-david-reinstein/) (Society Central, 2013)
 
-* [Charitable Giving: Applying and testing research insights](https://docs.google.com/document/d/1zyYYWD8Z9b_DGUeNavZazJFPeyjE75-5QbGLrEC2WMM/pub)
+[Charitable Giving: Applying and testing research insights](https://docs.google.com/document/d/1zyYYWD8Z9b_DGUeNavZazJFPeyjE75-5QbGLrEC2WMM/pub)
 
 ## Teaching and university administration
 
