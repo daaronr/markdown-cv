@@ -28,7 +28,7 @@ Phone: +44 (0)7510303648
 ## Positions
 
 `January 2016 - present`
-**Senior Lecturer, Department of Economics, University of Exeter Business School
+**Senior Lecturer, Department of Economics, University of Exeter Business School**
 
 `2006-2015`
 Lecturer (Assistant Professor equivalent), permanency granted 2011, Department of Economics, University of Essex.
@@ -102,9 +102,13 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 "[Listen to the market, hear the best policy decision, but don’t always choose it](http://www.essex.ac.uk/economics/discussion-papers/Papers-text/dp748.pdf),"
 
 “[Exclude the bad actors, or learn about the group](http://www.essex.ac.uk/economics/discussion-papers/Papers-text/dp750.pdf)”,
+
 “[Does one contribution come at the expense of another? Empirical evidence on substitution between charitable donations](https://s3.amazonaws.com/academia.edu.documents/30603591/dp64802.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1519821227&Signature=YHRCZIWQTBdbvPs0Ftv4rWMmRGc%3D&response-content-disposition=inline%3B%20filename%3DSubstitution_Among_Charitable_Contributi.pdf)*”,
+
 “The Returns to Higher Education Institutions in the Netherlands: Estimates Based on Randomized Assignment”,
+
 “Does where you go to university determine where you will live afterwards?”,
+
 [“Increasing effective charitable giving: The puzzle, what we know, what we need to know next” ](https://osf.io/pjm5n/)
 
 ## Selected popular essays and outreach
@@ -117,13 +121,13 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 
 ## Teaching and university administration
 
-* **University of Exeter:  **Economics dissertation (see [web-book](https://daaronr.github.io/writing_econ_research/introduction.html)), Economic Principles and Policy, Intermediate Microeconomics, MSc Microeconomics.
+**University of Exeter:** Economics dissertation (see [web-book](https://daaronr.github.io/writing_econ_research/introduction.html)), Economic Principles and Policy, Intermediate Microeconomics, MSc Microeconomics.
 
-* **University of Essex: **Undergraduate Economics Project Director (including employer-linked projects), Economics of Incentives, MSc, Public Economics, Advanced Microeconomics:  Game theory and modeling
+**University of Essex:** Undergraduate Economics Project Director (including employer-linked projects), Economics of Incentives, MSc, Public Economics, Advanced Microeconomics:  Game theory and modeling
 
-* **University of California **(Berkeley): Principles of microeconomics, Econometrics (advanced undergraduate_
+**University of California** (Berkeley): Principles of microeconomics, Econometrics (advanced undergraduate_
 
-* **Other: **Behavioral Economics and the Economics of Altruism (SKKU international summer school),  Economics of the UK Welfare State (Chinese and Japanese visiting delegations)
+**Other:** Behavioral Economics and the Economics of Altruism (SKKU international summer school), Economics of the UK Welfare State (Chinese and Japanese visiting delegations)
 
 * Director, ESSExLab 2014-15
 
@@ -133,39 +137,53 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 
 ## Editorial Boards and Affiliations
 
-* Scientific Data (Nature), [editorial board](https://www.nature.com/sdata/about/editorial-board#ap)
+Scientific Data (Nature), [editorial board](https://www.nature.com/sdata/about/editorial-board#ap)
 
-* [Catalyst](https://www.bitss.org/people/david-reinstein/), Berkeley Initiative for Transparency in the Social Sciences
+[Catalyst](https://www.bitss.org/people/david-reinstein/), Berkeley Initiative for Transparency in the Social Sciences
 
 ## Awards and Grants
 
-**2017 **Giving for Impact grant
+`2017`
+Giving for Impact grant
 
-**October 2016  **ESRC Active Engagement Award (Impact Acceleration): Innovations in Fundraising
+`October 2016 `
+ESRC Active Engagement Award (Impact Acceleration): Innovations in Fundraising
 
-**July 2016 **Above and Beyond award for service to BID research cluster (Exeter)
+`July 2016`
+Above and Beyond award for service to BID research cluster (Exeter)
 
-**June 2016 **ESRC Impact Cultivation Award: Innovations in Fundraising
+`June 2016`
+ESRC Impact Cultivation Award: Innovations in Fundraising
 
-**July 2015 **British Academy/Leverhulme Small Research Grant: "Experiments on Political Ideology, Empathy, and Charitable Giving" (Co-investigator: Patrick Lown)
+`July 2015`
+British Academy/Leverhulme Small Research Grant: "Experiments on Political Ideology, Empathy, and Charitable Giving" (Co-investigator: Patrick Lown)
 
-**February 2014 **British Council Researcher Links: "Listen to the market, hear the best policy decision, but don’t always choose it."
+`February 2014`
+British Council Researcher Links: "Listen to the market, hear the best policy decision, but don’t always choose it."
 
-**April 2013 **Leverhulme Trust Visiting Fellowships Grant Scheme (Co-investigator 1, PI: Nadine Chlass)
+`April 2013`
+Leverhulme Trust Visiting Fellowships Grant Scheme (Co-investigator 1, PI: Nadine Chlass)
 
-**February 2013 **Data Without Borders Grant (with Mathias Parey). Title: "The Impact of a University: Evidence from Admissions Lotteries, and Implications for Higher Education in Europe"
+`February 2013`
+Data Without Borders Grant (with Mathias Parey). Title: "The Impact of a University: Evidence from Admissions Lotteries, and Implications for Higher Education in Europe"
 
-**May 2012 **Building partnerships for Knowledge Exchange Grant for work with the UK Cabinet’s Behavioural Insights Team on randomized controlled trials involving Payroll Giving.
+`May 2012`
+Building partnerships for Knowledge Exchange Grant for work with the UK Cabinet’s Behavioural Insights Team on randomized controlled trials involving Payroll Giving.
 
-**December 2011  **Conference co-organizer, Academy of Sciences of Heidelberg, Germany, "From Social Altruism to Commercial Exchange: Gift Economy and the Embedded Economy in the Ancient World",  (23 Feb. 2012)
+`December 2011 `
+Conference co-organizer, Academy of Sciences of Heidelberg, Germany, "From Social Altruism to Commercial Exchange: Gift Economy and the Embedded Economy in the Ancient World",  (23 Feb. 2012)
 
-**February 2010**  British Academy Small Research Grant.  "Reputation and Influence in Charitable Giving"
+`February 2010`
+British Academy Small Research Grant.  "Reputation and Influence in Charitable Giving"
 
-**July 2007**  British Academy Small Research Grant. "Experimental Evidence on Charitable Giving"
+`July 2007`
+British Academy Small Research Grant. "Experimental Evidence on Charitable Giving"
 
-**June 2007  **Teaching and Learning Innovation Fund (TALIF) award
+`June 2007 `
+Teaching and Learning Innovation Fund (TALIF) award
 
-**2005-2006  **X-lab Competitive Grant, X-lab Pilot Grant, University of California, Berkeley
+`2005-2006 `
+X-lab Competitive Grant, X-lab Pilot Grant, University of California, Berkeley
 
 ## Invited Seminar and Conference Presentations
 
@@ -177,7 +195,7 @@ Environmental and Resource Economics, BE Press, Economic Journal (4X), Empirical
 
 ## Personal Information
 
-Citizenship: USA, UK; EU residence permitted via spouse
+Citizenship: USA, UK; EU residence permitted via marriage
 
 Locations: Exeter UK (home), West of Boston, Albany NY,  New York city, Tenerife Spain, Berkeley CA, LA, Leiden NL, Seoul, Chicago
 
