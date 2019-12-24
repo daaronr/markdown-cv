@@ -42,11 +42,30 @@ Designing and teaching professional and academic courses
 Developing innovative solutions to business and social problems using insights from Economics and Psychology, e.g.,
 
 - [Give if you win](giveifyouwin.org)
-- [Should we help companies tailor prices to your wage packet?](https://theconversation.com/should-we-help-companies-tailor-prices-to-your-wage-packet-47719) (The Conversation, 2015)
+
+- [Should we help companies tailor prices to your wage packet?](https://theconversation.com/should-we-help-companies-tailor-prices-to-your-wage-packet-47719)
+
 - [Conditionally anonymous environments and 'losing-face'](http://www.exeter.ac.uk/news/archive/2019/may/title_715166_en.html)
+
 \
 
-**Software/tech**: R (tidyverse), Stata, SAS, Git/GitHub and version control, Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, ViM text editor and ViM file manager, Airtable. Familiarity: Python, command line/Bash shell, SQL and relational databases.
+**Software/tech**
+
+*Regular user*
+
+- R (tidyverse), Stata, SAS
+
+- Git/GitHub, version control and project management tools
+
+- Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex
+
+- ViM text editor and ViM file manager, Airtable
+
+*Familiarity with*: Python, SQL and relational databases, Airtable API.
+
+\
+
+
 
 **Education**: University of California at Berkeley, Ph.D., Economics (2006), supervisor: Professor Emmanuel Saez; George Washington University, B.S. Economics (1998)
 
