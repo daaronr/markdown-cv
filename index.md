@@ -17,17 +17,40 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 Phone: +44 (0)7510303648
 
+
+**Goals**: I am seeking to build innovative resources, programs and workshops outside of traditional academic settings, to share tools, skills, and insights from Economics, Psychology, Experimental Design, Statistics and Data Science. I also aim to work with businesses, nonprofit organizations and government agencies to improve people's lives using insights from these fields, employing rigorous experimentation and data-analysis.
+
 ## Overview
 
-**Consulting goals**: To work with businesses, nonprofit organizations and government agencies to improve people's lives using insights from Economics and Psychology, employing rigorous experimentation and data-analysis. To build innovative interactive resources, programs and workshops outside of traditional academic settings, to share tools, skills, and insights.
 
-**Strengths**: Microeconomic analysis; behavioral economics; statistical inference, predictive modeling, analysis; data cleaning, analysis and visualisation; experiments: (i..e, randomized controlled trials or A/B testing): design, scoping, power-analysis, efficient treatment assignment, analysis; technical and non-technical writing; dynamic documents and presentations; project design, planning and organization; designing and teaching professional and academic courses; grant-writing;  developing solutions to business and social problems using insights from Economics and Psychology.
+**Strengths**
+
+Economic analysis: Behavioral economics, game theory, mechanism design, applications of these
+
+Econometrics and statistics: Causal inference, predictive and explanatory modeling, analysis, hypothesis testing
+
+Data cleaning, analysis and visualisation
+
+Experiments (i.e, randomized controlled trials or A/B testing): design, scoping, power-analysis, efficient treatment assignment, analysis
+
+Writing: Technical, academic, scientific, policy reports; non-technical, popular and journalistic; dynamic documents and presentations
+
+Project design, planning and organization
+
+Designing and teaching professional and academic courses
+
+Developing innovative solutions to business and social problems using insights from Economics and Psychology, e.g.,
+
+- [Give if you win](giveifyouwin.org)
+- [Should we help companies tailor prices to your wage packet?](https://theconversation.com/should-we-help-companies-tailor-prices-to-your-wage-packet-47719) (The Conversation, 2015)
+- [Conditionally anonymous environments and 'losing-face'](http://www.exeter.ac.uk/news/archive/2019/may/title_715166_en.html)
+\
 
 **Software/tech**: R (tidyverse), Stata, SAS, Git/GitHub and version control, Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, ViM text editor and ViM file manager, Airtable. Familiarity: Python, command line/Bash shell, SQL and relational databases.
 
 **Education**: University of California at Berkeley, Ph.D., Economics (2006), supervisor: Professor Emmanuel Saez; George Washington University, B.S. Economics (1998)
 
-**Research Interests**: Applied Econometrics and data analysis, Microeconomics,  Public Economics, Other-regarding Behavior and Philanthropy, Psychology and Economics, Experimental Economics (lab and field), Economics of Education, Public Policy
+**Research Interests**: Applied Econometrics and data analysis, Microeconomics, Public Economics, Other-regarding Behavior and Philanthropy, Psychology and Economics, Experimental Economics (lab and field), Economics of Education, Public Policy
 
 ## Positions
 
@@ -54,7 +77,7 @@ Congressional Budget Office, Special Studies Division, Washington, DC.
 
 [Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [http://giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
 
-University of Essex: Founded joint undergraduate program with SKKU Global Economics (South Korea)
+* University of Essex (2014): Founded joint undergraduate program with SKKU Global Economics (South Korea)
 
 Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
 
