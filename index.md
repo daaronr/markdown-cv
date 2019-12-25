@@ -47,23 +47,27 @@ Developing innovative solutions to business and social problems using insights f
 
 - [Conditionally anonymous environments and 'losing-face'](http://www.exeter.ac.uk/news/archive/2019/may/title_715166_en.html)
 
-\
+
+<br>
 
 **Software/tech**
 
 *Regular user*
 
-- R (tidyverse), Stata, SAS
+- Data, statistics and programming: R (tidyverse), Stata, SAS
 
-- Git/GitHub, version control and project management tools
+- Version control and project management tools: Git/GitHub
 
-- Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex
+- Presentation, documents, web content: Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, Dokuwiki
 
-- ViM text editor and ViM file manager, Airtable
+- Content and input: ViM text editor and ViM file manager, Airtable, MS office and Google suites
 
-*Familiarity with*: Python, SQL and relational databases, Airtable API.
+- Systems: Command line (Bash shell configuration and scripting), Mac, Linux, Windows
 
-\
+*Familiarity with*: Python, SQL and relational databases, Matlab, Z-tree/O-tree, Qualtrics, Airtable API
+
+
+<br>
 
 
 
