@@ -98,11 +98,11 @@ Congressional Budget Office, Special Studies Division, Washington, DC.
 
 ## Entrepreneurial and Impact Projects
 
-[Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [http://giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
+* [Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
 
 * University of Essex (2014): Founded joint undergraduate program with SKKU Global Economics (South Korea)
 
-Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
+* Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
 
 ## Web pages and projects
 
@@ -122,7 +122,7 @@ Book, slides and web (Moodle) tools: "[Researching and writing for Economics stu
 
 Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedonorvoice.com/meet_scientist/david-reinstein/), [Momentum app](https://www.sparrowgiving.com/), [Giving Alpha](https://www.givingalpha.org/), Giving for impact academic review committee, [X-econ](https://x-econ.org/xecon/#!ProjectDescription)
 
-Early-stage project scoping with Profusion data consultancy
+Early-stage project scoping with [Profusion data consultancy](https://www.profusion.com/)
 
 
 ## Publications and research projects
