@@ -93,7 +93,7 @@ PhD student at University of California at Berkeley; various research and teachi
 CNA (Center for Naval Analyses) Corporation, Resource Analysis Division, Alexandria, VA. Research Specialist.
 
 `1998`
-Congressional Budget Office, Special Studies Division, Washington, DC.
+Congressional Budget Office, Special Studies Division, Washington, DC. Economics research intern (paid).
 
 
 ## Entrepreneurial and Impact Projects
@@ -106,7 +106,7 @@ Congressional Budget Office, Special Studies Division, Washington, DC.
 
 ## Web pages and projects
 
-[Academic page (Wordpress)](http://davidreinstein.wordpress.com/), [Official Exeter page](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein)
+[Academic page (Wordpress)](http://davidreinstein.wordpress.com/), [Official Exeter page](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), [LinkedIn](https://www.linkedin.com/in/david-reinstein-bb555810/), [ResearchGate](https://www.researchgate.net/profile/David_Reinstein), [Open Science Foundation](https://osf.io/profile/)
 
 [Innovations in Fundraising research hub](http://Innovationsinfundraising.org)
 
@@ -118,7 +118,7 @@ Congressional Budget Office, Special Studies Division, Washington, DC.
 
 ## Independent consulting projects and partnerships
 
-["Evidence on Framing, Language, and (Retirement) Savings Behaviour"](https://www.dropbox.com/s/tyab5ei664gd3wm/DR_retirementnotes_clientanonymised.pdf?dl=0): report for TeamSpirit PR on behalf of large financial services client
+["Evidence on Framing, Language, and (Retirement) Savings Behaviour"](https://www.dropbox.com/s/tyab5ei664gd3wm/DR_retirementnotes_clientanonymised.pdf?dl=0): Report for TeamSpirit PR on behalf of large financial services client
 
 Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedonorvoice.com/meet_scientist/david-reinstein/), [Momentum app](https://www.sparrowgiving.com/), [Giving Alpha](https://www.givingalpha.org/), Giving for impact academic review committee, [X-econ](https://x-econ.org/xecon/#!ProjectDescription)
 
