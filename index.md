@@ -102,7 +102,7 @@ Congressional Budget Office, Special Studies Division, Washington, DC. Economics
 
 University of Essex (2014): Founded joint undergraduate program with SKKU Global Economics (South Korea)
 
-* Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
+Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
 
 ## Web pages and projects
 
