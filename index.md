@@ -100,7 +100,7 @@ Congressional Budget Office, Special Studies Division, Washington, DC. Economics
 
 * [Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
 
-* University of Essex (2014): Founded joint undergraduate program with SKKU Global Economics (South Korea)
+University of Essex (2014): Founded joint undergraduate program with SKKU Global Economics (South Korea)
 
 * Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
 
