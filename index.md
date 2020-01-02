@@ -8,10 +8,7 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 
 **Senior Lecturer, University of Exeter (Economics)**
-
-<p align="center">
- *[Download pdf CV here](reinstein_cv_pdf.pdf)* <\center>
-</p>
+*[Download pdf CV here](reinstein_cv_pdf.pdf)*
 
 
 <div id="webaddress">
