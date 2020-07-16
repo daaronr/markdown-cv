@@ -18,8 +18,13 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 Phone: +44 (0)7510303648
 
+**Background:**
 
-**Goals**: I am seeking to build innovative resources, programs and workshops outside of traditional academic settings, to share tools, skills, and insights from Economics, Psychology, Experimental Design, Statistics and Data Science. I also aim to work with businesses, nonprofit organizations and government agencies to improve people's lives using insights from these fields, employing rigorous experimentation and data-analysis.
+I am an Economist with 14 years experience at the University of Essex and the [University of Exeter]((http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein). My work involves teaching (at undergraduate, postgraduate, and professional/executive levels), research supervision, university administration and [entrepreneurship](#impact), doing research, and disseminating and promoting the [impact of my research](#projects). I completed my PhD under the supervision of Professor Emmanuel Saez at the University of California, Berkeley in 2006. I have [published a range of peer-reviewed research](#pubs) and done consulting and impact work involving behavioral economics, lab, field (A/B testing) and natural experimentation, panel-data econometrics and data science, game theory and mechanism design, and the practical applications of these.
+
+<br>
+
+**Goals**: I am working to build innovative resources, programs and workshops outside of traditional academic settings, to share tools, skills, and insights from Economics, Psychology, Experimental Design, Statistics and Data Science. I am collaborating with businesses, nonprofit organizations and government agencies to improve people's lives using insights from these fields, employing rigorous experimentation and data-analysis.
 
 ## Overview
 
@@ -97,7 +102,7 @@ CNA (Center for Naval Analyses) Corporation, Resource Analysis Division, Alexand
 Congressional Budget Office, Special Studies Division, Washington, DC. Economics research intern (paid).
 
 
-## Entrepreneurial and Impact Projects
+## Entrepreneurial and Impact Projects {#impact}
 
 [Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
 
@@ -106,7 +111,7 @@ University of Essex (2014): Founded joint undergraduate program with SKKU Global
 
 Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
 
-## Web pages and projects
+## Web pages and projects {#projects}
 
 [Academic page (Wordpress)](http://davidreinstein.wordpress.com/), [Official Exeter page](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), [LinkedIn](https://www.linkedin.com/in/david-reinstein-bb555810/), [ResearchGate](https://www.researchgate.net/profile/David_Reinstein), [Open Science Foundation](https://osf.io/profile/)
 
@@ -127,7 +132,7 @@ Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedo
 Early-stage project scoping with [Profusion data consultancy](https://www.profusion.com/)
 
 
-## Publications and research projects
+## Publications and research projects {#pubs}
 
 Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Evaluations" (with Robin Bergh (Harvard); Social Psychological and Personality Science, forthcoming 2019/2020. ([Pre-print](https://www.researchgate.net/publication/337060647_Empathic_and_Numerate_Giving_The_Joint_Effects_of_Images_and_Charity_Evaluations))
 
@@ -163,6 +168,8 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 
 [“Increasing effective charitable giving: The puzzle, what we know, what we need to know next” ](https://osf.io/pjm5n/)
 
+\
+
 ## Selected popular essays and outreach
 
 [Should we help companies tailor prices to your wage packet?](https://theconversation.com/should-we-help-companies-tailor-prices-to-your-wage-packet-47719) (The Conversation, 2015)
@@ -171,7 +178,9 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 
 [Charitable Giving: Applying and testing research insights](https://docs.google.com/document/d/1zyYYWD8Z9b_DGUeNavZazJFPeyjE75-5QbGLrEC2WMM/pub)
 
-## Teaching and university administration
+\
+
+## Teaching and university administration {#teaching}
 
 **University of Exeter:** Economics dissertation (see [web-book](https://daaronr.github.io/writing_econ_research/introduction.html)), Economic Principles and Policy, Intermediate Microeconomics, Microeconomics (MSc).
 
