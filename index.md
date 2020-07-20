@@ -8,7 +8,10 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 
 **Senior Lecturer, University of Exeter (Economics)**
+
 *[Download pdf CV here](reinstein_cv_pdf.pdf)*
+
+*[Link to web CV (this page)](https://daaronr.github.io/markdown-cv/)*
 
 
 <div id="webaddress">
@@ -18,7 +21,7 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 Phone: +44 (0)7510303648
 
-**Background:** I am an Economist with 25 years experience at UC Berkeley, the University of Essex and the [University of Exeter](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), and in other consulting and teaching roles. My work involves [teaching](#teaching) (at undergraduate, postgraduate, and professional/executive levels), research supervision, university administration and [entrepreneurship](#impact), performing economic research, and disseminating and promoting the [impact of my research](#projects). I completed my PhD under the supervision of Professor Emmanuel Saez at the University of California, Berkeley in 2006. I have [published a range of peer-reviewed research](#pubs) and done consulting and impact work involving behavioral economics, lab, field (A/B testing) and natural experimentation, panel-data econometrics and data science, game theory and mechanism design, and the practical applications of these. I am an active supporter of [open, robust, replicable and collaborative science](https://www.bitss.org/people/david-reinstein/), of the use of computer science and data science tools in Economics (e.g., [R-Markdown/Bookdown dynamic documents](https://daaronr.github.io/writing_econ_research/about-this-work.html)), and of [effective charitable giving](https://daaronr.github.io/ea_giving_barriers/outline.html).
+**Background:** I am an Economist with 25 years experience at UC Berkeley, the University of Essex and the [University of Exeter](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), and in other consulting and teaching roles. My work involves [teaching](#teaching) (at undergraduate, postgraduate, and professional/executive levels), research supervision, university administration and [entrepreneurship](#impact), performing economic research, and disseminating and promoting the [impact of my research](#projects). I completed my Ph.D. under the supervision of Professor Emmanuel Saez at the University of California, Berkeley in 2006. I have [published a range of peer-reviewed research](#pubs) and done consulting and impact work involving behavioral economics, lab, field (A/B testing) and natural experimentation, panel-data econometrics and data science, game theory and mechanism design, and the practical applications of these. I am an active supporter of [open, robust, replicable and collaborative science](https://www.bitss.org/people/david-reinstein/), of the use of computer science and data science tools in Economics (e.g., [R-Markdown/Bookdown dynamic documents](https://daaronr.github.io/writing_econ_research/about-this-work.html)), and of [effective charitable giving](https://daaronr.github.io/ea_giving_barriers/outline.html).
 
 <br>
 
@@ -127,16 +130,16 @@ Book, slides and web (Moodle) tools: "[Researching and writing for Economics stu
 
 Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedonorvoice.com/meet_scientist/david-reinstein/), [Momentum app](https://www.sparrowgiving.com/), [Giving Alpha](https://www.givingalpha.org/), Giving for impact academic review committee, [X-econ](https://x-econ.org/xecon/#!ProjectDescription)
 
-Early-stage project scoping with [Profusion data consultancy](https://www.profusion.com/)
+Early-stage project scoping with [Profusion data consultancy](https://www.profusion.com/), pursuing educational offerings
 
 
 ## Publications and research projects {#pubs}
 
-Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Evaluations" (with Robin Bergh (Harvard); Social Psychological and Personality Science, forthcoming 2019/2020. ([Pre-print](https://www.researchgate.net/publication/337060647_Empathic_and_Numerate_Giving_The_Joint_Effects_of_Images_and_Charity_Evaluations))
+"Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Evaluations" (with Robin Bergh (Harvard); Social Psychological and Personality Science, forthcoming 2019/2020. ([Pre-print](https://www.researchgate.net/publication/337060647_Empathic_and_Numerate_Giving_The_Joint_Effects_of_Images_and_Charity_Evaluations))
 
 "[Ex-ante Commitments to "Give if you Win" Exceed Donations After a Win](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/32001/GivingProbabilityMaster1_commentsout.pdf?sequence=1&isAllowed=y)" (with Christian Kellner [Southampton], Gerhard Riener [Dusseldorf]); Journal of Public Economics, 2018.
 
-[Losing Face](https://www.dropbox.com/s/tx4yfun1ctxuezw/LosingFace.pdf?dl=0) with [Thomas Gall](http://www.elektronegativ.de/tgall/), Southampton. Oxford Economic Papers, 2018
+["Losing Face"](https://www.dropbox.com/s/tx4yfun1ctxuezw/LosingFace.pdf?dl=0) with [Thomas Gall](http://www.elektronegativ.de/tgall/), Southampton. Oxford Economic Papers, 2018
 
 "[The Economics of the Gift](https://www.researchgate.net/publication/323116843_The_Economics_of_the_Gift?_sg=kdoPnHqZ7uaBvTUBETk0GQONoMvi6SX7w9AEiUiBGheF2hAtX2sXwi9XXAgoJT6wNR4VbiBA0-0qRNBtd4f7SsfI0y2PaPSAzqACBNmi.Gh6ObXs2qt9O2FsY3_y2HH_FuDUjSphDVOH6vuEUCNrLJy2mG02-6042BPlUKfKHyxhwRwttrlt0oQ5PnUMl_A)" in: Gift giving and the "embedded" economy in the ancient world, edited by Filippo Carlà and Maja Gori, Universitätsverlag Winter Heidelberg, 2014, pp. 83-99. 
 
@@ -166,7 +169,7 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 
 [“Increasing effective charitable giving: The puzzle, what we know, what we need to know next” ](https://osf.io/pjm5n/)
 
-\
+<br>
 
 ## Selected popular essays and outreach
 
@@ -176,7 +179,7 @@ Empathic and Numerate Giving: The Joint Effects of Victim Images and Charity Eva
 
 [Charitable Giving: Applying and testing research insights](https://docs.google.com/document/d/1zyYYWD8Z9b_DGUeNavZazJFPeyjE75-5QbGLrEC2WMM/pub)
 
-\
+<br>
 
 ## Teaching and university administration {#teaching}
 
@@ -256,7 +259,7 @@ Environmental and Resource Economics, BE Press, Economic Journal (4X), Empirical
 
 Citizenship: USA, UK; spouse of EU citizen
 
-Locations: Exeter UK (home), West of Boston, Albany NY,  New York city, Tenerife Spain, Berkeley CA, LA, Leiden NL, Seoul, Chicago
+Preferred and frequented locations: Exeter UK (home), West of Boston, Albany NY, Washington DC, Montreal, Tenerife Spain, Berkeley CA, Leiden NL, Seoul, Chicago
 
 Hobbies: Being a jazz snob, musician (trombone and tuba), hiking, wild swimming/snorkeling/scuba
 
