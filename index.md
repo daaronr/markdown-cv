@@ -253,7 +253,11 @@ Institute for Applied Economics and Social Value, WZB Berlin, IMEBESS workshop, 
 
 ## Referee and Editorial Activities
 
-Environmental and Resource Economics, BE Press, Economic Journal (4X), Empirical Economics, European Economic Review (2X), International Game Theory Review, International Journal of Nonprofit and Voluntary Sector Marketing, International Tax and Public Finance, Journal of Behavioral and Experimental Economics (2X), Journal of Economic Behavior and Organizations (2X), Journal of Economic Psychology (2x), Journal of Economics and Management Strategy (2X), Journal of Industrial Organization, Journal of International Economics, Journal of Public Economics (5X), Journal of the Economic Science Association, Nonprofit and Voluntary Sector Quarterly, NSF grant, Rand Journal of Economics, Review of Economics and Statistics (2x), Review of Economics Studies (2X), Scientific Data (Nature), Theory and Decision, Thomson-Reuters, UK ESRC grant.
+Environmental and Resource Economics, BE Press, Economic Journal (4X), Empirical Economics, European Economic Review (2X), International Game Theory Review, International Journal of Nonprofit and Voluntary Sector Marketing, International Tax and Public Finance, Journal of Behavioral and Experimental Economics (2X), Journal of Economic Behavior and Organizations (2X), Journal of Economic Psychology (2x), Journal of Economics and Management Strategy (2X), Journal of Industrial Organization, Journal of International Economics, Journal of Public Economics (5X), Journal of the Economic Science Association, Nonprofit and Voluntary Sector Quarterly (3x), NSF grant, Rand Journal of Economics, Review of Economics and Statistics (2x), Review of Economics Studies (2X), Scientific Data (Nature), Theory and Decision, Thomson-Reuters, UK ESRC grant.
+
+\
+
+Refereeing policy: In future, I will be selective in agreeing to review papers submitted to non-open-access journals run by for-profit publishers. I will generally be happy to review and evaluate work for non-profit & open access journals, archives, and networks.
 
 ## Personal Information
 
