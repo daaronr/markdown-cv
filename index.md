@@ -6,12 +6,9 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 # Dr. David Reinstein
 
 
-
 **Senior Lecturer, University of Exeter (Economics)**
 
-*[Download pdf CV here](reinstein_cv_pdf.pdf)*
-
-*[Link to web CV (this page)](https://daaronr.github.io/markdown-cv/)*
+*[Download pdf CV here](reinstein_cv_pdf.pdf)* - *[Link to web CV (this page)](https://daaronr.github.io/markdown-cv/)*
 
 
 <div id="webaddress">
@@ -23,10 +20,8 @@ Phone: +44 (0)7510303648
 
 **Background:** I am an Economist with 25 years experience at UC Berkeley, the University of Essex and the [University of Exeter](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), and in other consulting and teaching roles. My work involves performing [economic research](#pubs), [sharing research tools](https://daaronr.github.io/writing_econ_research/about-this-work.html), and disseminating and promoting the [impact of my research](#projects); as well as  [teaching](#teaching) (at undergraduate, postgraduate, and professional/executive levels), research supervision, and educational administration and [entrepreneurship](#impact). I completed my Ph.D. under the supervision of Professor Emmanuel Saez at the University of California, Berkeley in 2006. I have [published a range of peer-reviewed research](#pubs) and done consulting and impact work involving behavioral economics, lab, field (A/B testing) and natural experimentation, panel-data econometrics and data science, game theory and mechanism design, and the practical applications of these. I am an active supporter of [open, robust, replicable and collaborative science](https://www.bitss.org/people/david-reinstein/), of the use of computer science and data science tools in Economics (e.g., [R-Markdown/Bookdown dynamic documents](https://daaronr.github.io/writing_econ_research/about-this-work.html)), and of [effective charitable giving](https://daaronr.github.io/ea_giving_barriers/outline.html).
 
-<br>
 
 **Goals**: I aim to produce and share research, teaching, and tools that serve the public good. I am working to build innovative resources, programs and workshops outside of traditional academic settings, to share tools, skills, and insights from Economics, Psychology, Experimental Design, Statistics and Data Science. I am collaborating with businesses, nonprofit organizations and government agencies to improve people's lives using insights from these fields, employing rigorous experimentation and data-analysis.
-\
 
 
 **Education**: University of California at Berkeley, Ph.D., Economics (2006), supervisor: Professor Emmanuel Saez; George Washington University, B.S. Economics (1998)
@@ -39,8 +34,6 @@ Phone: +44 (0)7510303648
 Economic analysis: Behavioral economics, game theory, mechanism design, applications of these
 
 Econometrics and statistics: Causal inference, predictive and explanatory modeling, analysis, hypothesis testing
-
-Data cleaning, analysis and visualisation
 
 Experiments (i.e, randomized controlled trials or A/B testing): design, scoping, power-analysis, efficient treatment assignment, analysis
 
@@ -59,7 +52,10 @@ Developing innovative solutions to business and social problems using insights f
 - [Conditionally anonymous environments and 'losing-face'](http://www.exeter.ac.uk/news/archive/2019/may/title_715166_en.html)
 
 
-- [Coding, software and IT skills](#tech)
+Data cleaning, analysis and visualisation
+
+
+[Coding, software and IT skills](#tech)
 
 <br>
 
@@ -149,21 +145,9 @@ Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedo
 “[Exclude the bad actors, or learn about the group](https://ideas.repec.org/p/esx/essedp/10010.html)”, (preparing updated version based on new experiments with David Hugh-Jones and Hannes Titeca)
 
 
--   [Increasing effective charitable giving: The puzzle, what we know, what we need to know next (with Nick Fitz, Ari Kagan, Janek Kretschmer, and Luke Arundel)](https://daaronr.github.io/ea_giving_barriers/index.html)
+[Increasing effective charitable giving: The puzzle, what we know, what we need to know next (with Nick Fitz, Ari Kagan, Janek Kretschmer, and Luke Arundel)](https://daaronr.github.io/ea_giving_barriers/index.html)
 
--  "The impact of effectiveness information on fundraising" (Field experiment, with Dean Karlan [Northwestern], Janek Kretschmer, and Paul Smeets)
-
-- "Peer effects on donations in social fundraising" (Field experiment with Oska Fentem and Ben Grodeck [Monash])
-
-- "Suggested amounts and impact in international giving" (Field experiment with Jan Schmitz [Radboud] and Deborah Kistler [ETH Zurich])
-
--  "Impact of impact information on giving: field experiments and synthesis" (with Scott Dickinson [Exeter] and Kiki Koutmeridou [Donor's voice])
-
-- “The Returns to Higher Education Institutions in the Netherlands: Estimates Based on Randomized Assignment” (With Matthias Parey [Surrey] and Nathan Vellekoop [Toronto]),
-
-- “Does where you go to university determine where you will live afterwards?” (With Matthias Parey [Surrey]
-
-Other projects: “Does laboratory ‘real effort’ really respond to incentives?”, “Crowding-out, Timing, Substitution, and Misallocation of Aid to Natural Disasters”, “Price Discrimination by Income in Theory and Practice”, “New Horizons for Data-Sharing, Transparency, and Verification in Experimental Social Science” (with Antoine Malezieux)
+*Other projects:* "The impact of effectiveness information on fundraising" (Field experiment, with Dean Karlan [Northwestern], Janek Kretschmer, and Paul Smeets); "Peer effects on donations in social fundraising" (Field experiment with Oska Fentem and Ben Grodeck [Monash]); "Suggested amounts and impact in international giving" (Field experiment with Jan Schmitz [Radboud] and Deborah Kistler [ETH Zurich]); "Impact of impact information on giving: field experiments and synthesis" (with Scott Dickinson [Exeter] and Kiki Koutmeridou [Donor's voice]); “The Returns to Higher Education Institutions in the Netherlands: Estimates Based on Randomized Assignment” (With Matthias Parey [Surrey] and Nathan Vellekoop [Toronto]); “Does where you go to university determine where you will live afterwards?” (With Matthias Parey [Surrey]; “Does laboratory ‘real effort’ really respond to incentives?”; “Crowding-out, Timing, Substitution, and Misallocation of Aid to Natural Disasters”; “Price Discrimination by Income in Theory and Practice”; “New Horizons for Data-Sharing, Transparency, and Verification in Experimental Social Science” (with Antoine Malezieux)
 
 
 
@@ -255,7 +239,6 @@ Institute for Applied Economics and Social Value, WZB Berlin, IMEBESS workshop, 
 
 Environmental and Resource Economics, BE Press, Economic Journal (4X), Empirical Economics, European Economic Review (2X), International Game Theory Review, International Journal of Nonprofit and Voluntary Sector Marketing, International Tax and Public Finance, Journal of Behavioral and Experimental Economics (2X), Journal of Economic Behavior and Organizations (2X), Journal of Economic Psychology (2x), Journal of Economics and Management Strategy (2X), Journal of Industrial Organization, Journal of International Economics, Journal of Public Economics (5X), Journal of the Economic Science Association, Nonprofit and Voluntary Sector Quarterly (3x), NSF grant, Rand Journal of Economics, Review of Economics and Statistics (2x), Review of Economics Studies (2X), Scientific Data (Nature), Theory and Decision, Thomson-Reuters, UK ESRC grant.
 
-\
 
 Refereeing policy: In future, I will be selective in agreeing to review papers submitted to non-open-access journals run by for-profit publishers. I will generally be happy to review and evaluate work for non-profit & open access journals, archives, and networks.
 
@@ -263,17 +246,17 @@ Refereeing policy: In future, I will be selective in agreeing to review papers s
 
 ## Software/tech {#tech}
 
-- Data, statistics and programming: R (tidyverse), Stata, SAS
+Data, statistics and programming: R (tidyverse), Stata, SAS
 
-- Version control and project management tools: Git/GitHub
+Version control and project management tools: Git/GitHub
 
-- Presentation, documents, web content: Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, Dokuwiki
+Presentation, documents, web content: Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, Dokuwiki
 
-- Content and input: ViM text editor and ViM file manager, Airtable, MS office and Google suites
+Content and input: ViM text editor and ViM file manager, Airtable, MS office and Google suites
 
-- Systems: Command line (Bash shell configuration and scripting), Mac, Linux, Windows
+Systems: Command line (Bash shell configuration and scripting), Mac, Linux, Windows
 
-*Familiarity with*: Python, SQL and relational databases, Matlab, Z-tree/O-tree, Qualtrics, Airtable API
+*Familiarity*: Python, SQL and relational databases, Matlab, Z-tree/O-tree, Qualtrics, Airtable API
 
 
 <br>
