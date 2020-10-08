@@ -21,16 +21,20 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 Phone: +44 (0)7510303648
 
-**Background:** I am an Economist with 25 years experience at UC Berkeley, the University of Essex and the [University of Exeter](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), and in other consulting and teaching roles. My work involves [teaching](#teaching) (at undergraduate, postgraduate, and professional/executive levels), research supervision, university administration and [entrepreneurship](#impact), performing economic research, and disseminating and promoting the [impact of my research](#projects). I completed my Ph.D. under the supervision of Professor Emmanuel Saez at the University of California, Berkeley in 2006. I have [published a range of peer-reviewed research](#pubs) and done consulting and impact work involving behavioral economics, lab, field (A/B testing) and natural experimentation, panel-data econometrics and data science, game theory and mechanism design, and the practical applications of these. I am an active supporter of [open, robust, replicable and collaborative science](https://www.bitss.org/people/david-reinstein/), of the use of computer science and data science tools in Economics (e.g., [R-Markdown/Bookdown dynamic documents](https://daaronr.github.io/writing_econ_research/about-this-work.html)), and of [effective charitable giving](https://daaronr.github.io/ea_giving_barriers/outline.html).
+**Background:** I am an Economist with 25 years experience at UC Berkeley, the University of Essex and the [University of Exeter](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), and in other consulting and teaching roles. My work involves performing [economic research](#pubs), [sharing research tools](https://daaronr.github.io/writing_econ_research/about-this-work.html), and disseminating and promoting the [impact of my research](#projects); as well as  [teaching](#teaching) (at undergraduate, postgraduate, and professional/executive levels), research supervision, and educational administration and [entrepreneurship](#impact). I completed my Ph.D. under the supervision of Professor Emmanuel Saez at the University of California, Berkeley in 2006. I have [published a range of peer-reviewed research](#pubs) and done consulting and impact work involving behavioral economics, lab, field (A/B testing) and natural experimentation, panel-data econometrics and data science, game theory and mechanism design, and the practical applications of these. I am an active supporter of [open, robust, replicable and collaborative science](https://www.bitss.org/people/david-reinstein/), of the use of computer science and data science tools in Economics (e.g., [R-Markdown/Bookdown dynamic documents](https://daaronr.github.io/writing_econ_research/about-this-work.html)), and of [effective charitable giving](https://daaronr.github.io/ea_giving_barriers/outline.html).
 
 <br>
 
-**Goals**: I am working to build innovative resources, programs and workshops outside of traditional academic settings, to share tools, skills, and insights from Economics, Psychology, Experimental Design, Statistics and Data Science. I am collaborating with businesses, nonprofit organizations and government agencies to improve people's lives using insights from these fields, employing rigorous experimentation and data-analysis.
+**Goals**: I aim to produce and share research, teaching, and tools that serve the public good. I am working to build innovative resources, programs and workshops outside of traditional academic settings, to share tools, skills, and insights from Economics, Psychology, Experimental Design, Statistics and Data Science. I am collaborating with businesses, nonprofit organizations and government agencies to improve people's lives using insights from these fields, employing rigorous experimentation and data-analysis.
+\
 
-## Overview
+
+**Education**: University of California at Berkeley, Ph.D., Economics (2006), supervisor: Professor Emmanuel Saez; George Washington University, B.S. Economics (1998)
+
+**Research Interests**: Applied Econometrics and data analysis, Microeconomics, Public Economics, Other-regarding Behavior and Philanthropy, Psychology and Economics, Experimental Economics (lab and field), Economics of Education, Public Policy
 
 
-**Strengths**
+## Strengths
 
 Economic analysis: Behavioral economics, game theory, mechanism design, applications of these
 
@@ -55,32 +59,10 @@ Developing innovative solutions to business and social problems using insights f
 - [Conditionally anonymous environments and 'losing-face'](http://www.exeter.ac.uk/news/archive/2019/may/title_715166_en.html)
 
 
-<br>
-
-**Software/tech**
-
-*Regular user*
-
-- Data, statistics and programming: R (tidyverse), Stata, SAS
-
-- Version control and project management tools: Git/GitHub
-
-- Presentation, documents, web content: Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, Dokuwiki
-
-- Content and input: ViM text editor and ViM file manager, Airtable, MS office and Google suites
-
-- Systems: Command line (Bash shell configuration and scripting), Mac, Linux, Windows
-
-*Familiarity with*: Python, SQL and relational databases, Matlab, Z-tree/O-tree, Qualtrics, Airtable API
-
+- [Coding, software and IT skills](#tech)
 
 <br>
 
-
-
-**Education**: University of California at Berkeley, Ph.D., Economics (2006), supervisor: Professor Emmanuel Saez; George Washington University, B.S. Economics (1998)
-
-**Research Interests**: Applied Econometrics and data analysis, Microeconomics, Public Economics, Other-regarding Behavior and Philanthropy, Psychology and Economics, Experimental Economics (lab and field), Economics of Education, Public Policy
 
 ## Positions
 
@@ -114,7 +96,7 @@ Book, slides and web (Moodle) tools: "[Researching and writing for Economics stu
 
 ## Web pages and projects {#projects}
 
-[Academic page (Wordpress)](http://davidreinstein.wordpress.com/), [Official Exeter page](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), [LinkedIn](https://www.linkedin.com/in/david-reinstein-bb555810/), [ResearchGate](https://www.researchgate.net/profile/David_Reinstein), [Open Science Foundation](https://osf.io/profile/)
+[Academic page (Wordpress)](http://davidreinstein.wordpress.com/), [Official Exeter page](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), [LinkedIn](https://www.linkedin.com/in/david-reinstein-bb555810/), [ResearchGate](https://www.researchgate.net/profile/David_Reinstein), [Google scholar](https://scholar.google.com/citations?user=ZGVPBmUAAAAJ&hl=en), [Open Science Foundation](https://osf.io/profile/)
 
 [Innovations in Fundraising research hub](http://Innovationsinfundraising.org)
 
@@ -126,11 +108,12 @@ Book, slides and web (Moodle) tools: "[Researching and writing for Economics stu
 
 ## Independent consulting projects and partnerships
 
+[Profusion (data consultancy)](https://www.profusion.com/):  Helping to build and organize Profusion's 'Data Academy' educational program, project scoping/consulting
+
 ["Evidence on Framing, Language, and (Retirement) Savings Behaviour"](https://www.dropbox.com/s/tyab5ei664gd3wm/DR_retirementnotes_clientanonymised.pdf?dl=0): Report for TeamSpirit PR on behalf of large financial services client
 
-Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedonorvoice.com/meet_scientist/david-reinstein/), [Momentum app](https://www.sparrowgiving.com/), [Giving Alpha](https://www.givingalpha.org/), Giving for impact academic review committee, [X-econ](https://x-econ.org/xecon/#!ProjectDescription)
+Advisory boards: Donor’s Voice [Academic advisory board](http://agitator.thedonorvoice.com/meet_scientist/david-reinstein/), [Momentum app](https://www.sparrowgiving.com/), [Giving Alpha](https://www.givingalpha.org/), Giving for impact academic review committee, [X-econ](https://x-econ.org/xecon/#!ProjectDescription), [Revolutionizing philanthropy research consortium](https://renebekkers.wordpress.com/2020/01/22/revolutionizing-philanthropy-research-webinar/)
 
-Early-stage project scoping with [Profusion data consultancy](https://www.profusion.com/), pursuing educational offerings
 
 
 ## Publications and research projects {#pubs}
@@ -155,19 +138,34 @@ Early-stage project scoping with [Profusion data consultancy](https://www.profus
 
 "[The Influence of Expert Reviews on Consumer Demand for Experience Goods: A Case Study of Movie Critics](https://www.researchgate.net/publication/4992942_The_Influence_of_Expert_Reviews_on_Consumer_Demand_for_Experience_Goods_A_Case_Study_of_Movie_Critics)" with Professor C. M. Snyder, Journal of Industrial Economics, Vol. 53, No. 1, pp. 27-51, March 2005
 
-### Work in progress and in submission
+### Working papers and ongoing projects
 
-"[Listen to the market, hear the best policy decision, but don’t always choose it](http://www.essex.ac.uk/economics/discussion-papers/Papers-text/dp748.pdf),"
+"[Listen to the market, hear the best policy decision, but don’t always choose it](https://ore.exeter.ac.uk/repository/handle/10871/36180)," (with Joon Song \[SKKU\])
 
-“[Exclude the bad actors, or learn about the group](http://www.essex.ac.uk/economics/discussion-papers/Papers-text/dp750.pdf)”,
 
-“[Does one contribution come at the expense of another? Empirical evidence on substitution between charitable donations](https://s3.amazonaws.com/academia.edu.documents/30603591/dp64802.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1519821227&Signature=YHRCZIWQTBdbvPs0Ftv4rWMmRGc%3D&response-content-disposition=inline%3B%20filename%3DSubstitution_Among_Charitable_Contributi.pdf)”,
+“[Does one contribution come at the expense of another? Empirical evidence on substitution between charitable donations](https://www.dropbox.com/s/42p2rknjeevj660/reinstein_BLINDED_exptpaper_EI_smallpostedits.pdf?dl=0)” (preparing updated version based on new lab and field experiments with  Gerhard Riener \[Dusseldorf\] and Danielle Vance-McMullen \[DePaul\])
 
-“The Returns to Higher Education Institutions in the Netherlands: Estimates Based on Randomized Assignment”,
 
-“Does where you go to university determine where you will live afterwards?”,
+“[Exclude the bad actors, or learn about the group](https://ideas.repec.org/p/esx/essedp/10010.html)”, (preparing updated version based on new experiments with David Hugh-Jones and Hannes Titeca)
 
-[“Increasing effective charitable giving: The puzzle, what we know, what we need to know next” ](https://osf.io/pjm5n/)
+
+-   [Increasing effective charitable giving: The puzzle, what we know, what we need to know next (with Nick Fitz, Ari Kagan, Janek Kretschmer, and Luke Arundel)](https://daaronr.github.io/ea_giving_barriers/index.html)
+
+-  "The impact of effectiveness information on fundraising" (Field experiment, with Dean Karlan [Northwestern], Janek Kretschmer, and Paul Smeets)
+
+- "Peer effects on donations in social fundraising" (Field experiment with Oska Fentem and Ben Grodeck [Monash])
+
+- "Suggested amounts and impact in international giving" (Field experiment with Jan Schmitz [Radboud] and Deborah Kistler [ETH Zurich])
+
+-  "Impact of impact information on giving: field experiments and synthesis" (with Scott Dickinson [Exeter] and Kiki Koutmeridou [Donor's voice])
+
+- “The Returns to Higher Education Institutions in the Netherlands: Estimates Based on Randomized Assignment” (With Matthias Parey [Surrey] and Nathan Vellekoop [Toronto]),
+
+- “Does where you go to university determine where you will live afterwards?” (With Matthias Parey [Surrey]
+
+Other projects: “Does laboratory ‘real effort’ really respond to incentives?”, “Crowding-out, Timing, Substitution, and Misallocation of Aid to Natural Disasters”, “Price Discrimination by Income in Theory and Practice”, “New Horizons for Data-Sharing, Transparency, and Verification in Experimental Social Science” (with Antoine Malezieux)
+
+
 
 <br>
 
@@ -183,7 +181,7 @@ Early-stage project scoping with [Profusion data consultancy](https://www.profus
 
 ## Teaching and university administration {#teaching}
 
-**University of Exeter:** Economics dissertation (see [web-book](https://daaronr.github.io/writing_econ_research/introduction.html)), Economic Principles and Policy, Intermediate Microeconomics, Microeconomics (MSc).
+**University of Exeter:** Co-founded undergraduate Economics dissertation module (see [web-book](https://daaronr.github.io/writing_econ_research/introduction.html)), Economic Principles and Policy, Intermediate Microeconomics, Microeconomics (MSc)[web-book in progress](https://daaronr.github.io/micro-giving-pub/index.htm).
 
 **University of Essex:** Undergraduate Economics Project Director (including employer-linked projects), Economics of Incentives (MSc), Public Economics, Advanced Microeconomics: Game theory and modeling
 
@@ -197,13 +195,15 @@ Student-staff liaison coordinator, director of mentoring program, seminar organi
 
 PhD Chair: Stefano Alderighi, Chiara Cavaglia, Claudio Deiana, Robert Nistico, Eugenia Suarez Moran
 
+<br>
+
 ## Editorial Boards and Affiliations
 
 Scientific Data (Nature), [editorial board](https://www.nature.com/sdata/about/editorial-board#ap)
 
 [Catalyst](https://www.bitss.org/people/david-reinstein/), Berkeley Initiative for Transparency in the Social Sciences
 
-## Awards and Grants
+## Awards and Grants {#grants}
 
 `2017`
 Giving for Impact grant
@@ -258,6 +258,27 @@ Environmental and Resource Economics, BE Press, Economic Journal (4X), Empirical
 \
 
 Refereeing policy: In future, I will be selective in agreeing to review papers submitted to non-open-access journals run by for-profit publishers. I will generally be happy to review and evaluate work for non-profit & open access journals, archives, and networks.
+
+
+
+## Software/tech {#tech}
+
+- Data, statistics and programming: R (tidyverse), Stata, SAS
+
+- Version control and project management tools: Git/GitHub
+
+- Presentation, documents, web content: Markdown/R-markdown, Pandoc, Bookdown, Reveal.js, Latex, Dokuwiki
+
+- Content and input: ViM text editor and ViM file manager, Airtable, MS office and Google suites
+
+- Systems: Command line (Bash shell configuration and scripting), Mac, Linux, Windows
+
+*Familiarity with*: Python, SQL and relational databases, Matlab, Z-tree/O-tree, Qualtrics, Airtable API
+
+
+<br>
+
+
 
 ## Personal Information
 
