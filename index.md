@@ -17,15 +17,18 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 | <a href="https://davidreinstein.wordpress.com/">Academic web page (wordpress)</a>
 </div>
 
+
+<br>
+
 **Background:** I am an Economist with 25 years experience at UC Berkeley, the University of Essex and the [University of Exeter](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein), and in other consulting and teaching roles. My work involved performing [economic research](#pubs), [sharing research tools](https://daaronr.github.io/writing_econ_research/about-this-work.html), and disseminating and promoting the [impact of my research](#projects); as well as [teaching](#teaching) (at undergraduate, postgraduate, and professional/executive levels), research supervision, and educational administration and [entrepreneurship](#impact). I completed my Ph.D. under the supervision of Professor Emmanuel Saez at the University of California, Berkeley in 2006. I have [published a range of peer-reviewed research](#pubs) and done consulting and impact work involving behavioral economics, lab, field (A/B testing) and natural experimentation, panel-data econometrics and data science, game theory and mechanism design, and the practical applications of these. I am an active supporter of [open, robust, replicable and collaborative science](https://www.bitss.org/people/david-reinstein/), of the use of computer science and data science tools in Economics (e.g., [R-Markdown/Bookdown dynamic documents](https://daaronr.github.io/writing_econ_research/about-this-work.html)), and of [effective charitable giving](https://daaronr.github.io/ea_giving_barriers/outline.html).
 
-
+<br>
 
 *In 2021 I left my secure academic post:*
 
-... to pursue greater impact as a researcher at Rethink Priorities, and
+1. To pursue greater impact as a researcher at [Rethink Priorities](https://www.rethinkpriorities.org/our-team), a think tank "dedicated to figuring out the best ways to make the world a better place." RP is closely tied to the [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism) movement.
 
-...  to build tools and programs promoting open, collaborative, and robust  research, as well as teaching, learning, and training outside of traditional university degree schemes.
+2. To build tools and programs promoting open, collaborative, and robust  research, as well as teaching, learning, and research training outside of traditional university degree schemes.
 
 \
 
