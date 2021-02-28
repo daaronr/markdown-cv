@@ -30,7 +30,7 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 2. To build tools and programs promoting open, collaborative, and robust  research, as well as teaching, learning, and research training outside of traditional university degree schemes.
 
-\
+<br>
 
 
 
@@ -86,13 +86,14 @@ Developing innovative solutions to business and social problems using insights f
 
 ## Positions
 
-`Jan 2021 - Present`
+`2021 - Present`
 **[Distinguished Researcher, Rethink Priorities](https://www.rethinkpriorities.org/our-team)**
 
+`2021 - Present`
 **Visiting Assistant Professor, University of Maastricht**
 
-`Jan. 2016 - Feb. 2021`
-**Senior Lecturer, Department of Economics, University of Exeter Business School**
+`2016 - 2021`
+Senior Lecturer, Department of Economics, University of Exeter Business School.
 
 `2006-2015`
 Lecturer (Assistant Professor equivalent), permanency granted 2011, Department of Economics, University of Essex.
@@ -115,7 +116,6 @@ Congressional Budget Office, Special Studies Division, Washington, DC. Economics
 [Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
 
 University of Essex (2014): Founded joint undergraduate program with SKKU Global Economics (South Korea)
-
 
 Book, slides and web (Moodle) tools: "[Researching and writing for Economics students](https://daaronr.github.io/writing_econ_research/about-this-work.html)"
 
