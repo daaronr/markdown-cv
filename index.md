@@ -23,10 +23,11 @@ title: CV for Dr. David Reinstein, Senior Lecturer, University of Exeter (Econom
 
 *In 2021 I left my secure academic post:*
 
-- to pursue greater impact as a researcher at Rethink Priorities, and
+... to pursue greater impact as a researcher at Rethink Priorities, and
 
-- to build tools and programs promoting open, collaborative, and robust  research, as well as teaching, learning, and training outside of traditional university degree schemes/
+...  to build tools and programs promoting open, collaborative, and robust  research, as well as teaching, learning, and training outside of traditional university degree schemes.
 
+\
 
 
 
