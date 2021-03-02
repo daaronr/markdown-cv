@@ -98,7 +98,7 @@ Senior Lecturer, Department of Economics, University of Exeter Business School.
 `2006-2015`
 Lecturer (Assistant Professor equivalent), permanency granted 2011, Department of Economics, University of Essex.
 
-`2004-5`
+`2004-2005`
 LECG Consulting, Emeryville, CA, USA. Senior Consulting Intern.
 
 `1999-2005`
