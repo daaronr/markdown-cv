@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV for Dr. David Reinstein, Distinguished Researcher, Rethink Priorities.
+title: CV for Dr. David Reinstein, Senior Economist, Rethink Priorities.
 ---
 
 # Dr. David Reinstein
@@ -217,6 +217,10 @@ Scientific Data (Nature), [editorial board](https://www.nature.com/sdata/about/e
 [Catalyst](https://www.bitss.org/people/david-reinstein/), Berkeley Initiative for Transparency in the Social Sciences
 
 ## Awards and Grants {#grants}
+
+2021
+Longview Philanthropy-administered independent grant to pursue research into motivators and barriers to effective giving, and the impact of information about effectiveness on giving choices/
+
 
 `2017`
 Giving for Impact grant
