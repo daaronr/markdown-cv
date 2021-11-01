@@ -5,16 +5,18 @@ title: CV for Dr. David Reinstein, Senior Economist, Rethink Priorities.
 
 # Dr. David Reinstein
 
-**[Distinguished Researcher, Rethink Priorities](https://www.rethinkpriorities.org/our-team)**
+**[Senior Economist, Rethink Priorities](https://www.rethinkpriorities.org/our-team)**
 
-**Visiting Assistant Professor, University of Maastricht**
+Visiting Assistant Professor, University of Maastricht
+
+Current location: Massachusetts, USA (GMT-4)
 
 *[Download pdf CV here](reinstein_cv_pdf.pdf)* - *[Link to web CV (this page)](https://daaronr.github.io/markdown-cv/)*
 
 
 <div id="webaddress">
 <a href="daaronr@gmail.com">daaronr@gmail.com</a>
-| <a href="https://davidreinstein.wordpress.com/">Academic web page (wordpress)</a>
+| <a href="https://davidreinstein.wordpress.com/">Wordpress page</a>
 </div>
 
 
