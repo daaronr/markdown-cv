@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: CV for Dr. David Reinstein, Senior Economist, Rethink Priorities.
+geometry: margin=0.7in
 ---
 
 # Dr. David Reinstein
@@ -28,7 +29,7 @@ Current location: Massachusetts, USA (GMT-4)
 
 *In 2021 I left my secure academic post:*
 
-1. To pursue greater impact as a researcher at [Rethink Priorities](https://www.rethinkpriorities.org/our-team), a think tank "dedicated to figuring out the best ways to make the world a better place." RP is closely tied to the [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism) movement. My research into [effective charitable giving](https://daaronr.github.io/ea_giving_barriers/index.html) is made possible by a grant from an individual donor under the advising of [Longview Philanthropy](https://www.longview.org/).
+1. To pursue greater impact as a researcher at [Rethink Priorities](https://www.rethinkpriorities.org/our-team), a think tank "dedicated to figuring out the best ways to make the world a better place." RP is closely tied to the [Effective Altruism](https://en.wikipedia.org/wiki/Effective_altruism) movement. My research into [effective charitable giving](https://daaronr.github.io/ea_giving_barriers/index.html) is made possible by an independent grant.
 
 2. To build tools and programs promoting open, collaborative, and robust research, as well as teaching, learning, and research training outside of traditional university degree schemes.
 
@@ -221,7 +222,7 @@ Scientific Data (Nature), [editorial board](https://www.nature.com/sdata/about/e
 ## Awards and Grants {#grants}
 
 2021
-Longview Philanthropy-administered independent grant to pursue research into motivators and barriers to effective giving, and the impact of information about effectiveness on giving choices/
+Independent grant to pursue research into motivators and barriers to effective giving, and the impact of information about effectiveness on giving choices.
 
 
 `2017`
