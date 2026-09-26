@@ -1,8 +1,14 @@
 ---
 layout: cv
-title: CV for Dr. David Reinstein, Senior Economist, Rethink Priorities.
+title: "OUT OF DATE (2023): old CV for Dr. David Reinstein. Current CV: davidreinstein.org/cv"
 geometry: margin=0.7in
 ---
+
+<div style="border: 2px solid #b00; padding: 0.8em; margin-bottom: 1em; background: #fff4f4;">
+<strong>This CV is out of date</strong> (last updated 2023; the positions shown as current below have ended).
+<br>
+Current CV: <a href="https://www.davidreinstein.org/cv/">www.davidreinstein.org/cv/</a> (<a href="https://www.davidreinstein.org/cv/cv_pdf_version.pdf">PDF</a>). I'm the founder and co-director of <a href="https://unjournal.org">The Unjournal</a>.
+</div>
 
 # Dr. David Reinstein
 
