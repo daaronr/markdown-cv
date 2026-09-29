@@ -204,7 +204,7 @@ tools**
 -   Innovations in fundraising: ESRC-funded impact project, work
     > partners including the Centre for Effective Altruism, Giving for
     > Impact, City Philanthropy, Center for Advanced Hindsight; see
-    > [[http://giveifyouwin.org]{.underline}](http://giveifyouwin.org)
+    > [[Give if you win]{.underline}](https://daaronr.github.io/giveifyouwin/)
     > and
     > [[innovationsinfundraising.org]{.underline}](http://innovationsinfundraising.org)
 
@@ -399,7 +399,7 @@ Markdown/Pandoc, Latex, (neo)ViM text editor, Airtable
     > [[business-school.exeter.ac.uk/]{.underline}](http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=David_Reinstein)
 
 -   [[Innovationsinfundraising.org]{.underline}](http://innovationsinfundraising.org),
-    > [[giveifyouwin.org]{.underline}](http://giveifyouwin.org/)
+    > [[Give if you win]{.underline}](https://daaronr.github.io/giveifyouwin/)
 
 -   [[BITSS
     > catalyst]{.underline}](https://www.bitss.org/people/david-reinstein/),
