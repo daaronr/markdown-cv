@@ -84,7 +84,7 @@ Designing and teaching professional and academic courses
 
 Developing innovative solutions to business and social problems using insights from Economics and Psychology, e.g.,
 
-- [Give if you win](giveifyouwin.org)
+- [Give if you win](https://daaronr.github.io/giveifyouwin/)
 
 - [Should we help companies tailor prices to your wage packet?](https://theconversation.com/should-we-help-companies-tailor-prices-to-your-wage-packet-47719)
 
@@ -122,7 +122,7 @@ Congressional Budget Office, Special Studies Division, Washington, DC. Economics
 
 ## Entrepreneurial and Impact Projects {#impact}
 
-[Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [giveifyouwin.org](http://giveifyouwin.org)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
+[Innovations in fundraising](innovationsinfundraising.org): ESRC-funded impact project, partners including the Centre for Effective Altruism, Giving for Impact,  City Philanthropy, Center for Advanced Hindsight; see [Give if you win](https://daaronr.github.io/giveifyouwin/)  and [innovationsinfundraising.org](http://innovationsinfundraising.org)
 
 University of Essex (2014): Founded joint undergraduate program with SKKU Global Economics (South Korea)
 
@@ -134,7 +134,7 @@ Book, slides and web (Moodle) tools: "[Researching and writing for Economics stu
 
 [Innovations in Fundraising research hub](http://Innovationsinfundraising.org)
 
-["Give if you win" ](http://giveifyouwin.org/)
+["Give if you win" ](https://daaronr.github.io/giveifyouwin/)
 
 [BITSS catalyst](https://www.bitss.org/people/david-reinstein/), [OSF: registered experiments and projects](https://osf.io/qdhvt/)
 
